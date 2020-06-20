@@ -1,9 +1,9 @@
 # Smart-Menu
 
 For long time before now I have been looking for a very small menu builder and then powerfull<br>
-to builder my admin menu and user tab menu and also front page menu builder but I couldn't get a>br>
+to builder my admin menu and user tab menu and also front page menu builder but I couldn't get a<br>
 solution for it. So come up making this small snippet to help do this.
-<br> I hope you too will also :love: it.
+<br> I hope you too will also :heart: it.
 <br>
 <br>
 
