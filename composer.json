@@ -1,0 +1,19 @@
+{
+  "name": "chibuezeagwudennis/smart-menu",
+  "description": "A small but to be powerful menu builder for admin user and multi-level menu.",
+  "version": "0.0.1",
+  "authors": [
+      {
+          "name": "Chibueze Agwu",
+          "email": "dennisag911@gmail.com"
+      }
+  ],
+  "autoload": {
+    "classmap": [
+        "src"
+    ],
+    "psr-0": {
+        "Sperad\\SmartMenu": "src"
+    }
+  }
+}
